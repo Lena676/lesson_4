@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(198, 180, 165);
+    font-family: Courier New;
+}
+
+a {
+    text-decoration: none;
+}
+
+.film {
+    font-family: Cambria;
+    color: black;
+}
+
+.block {
+    background-color: rgb(115, 115, 115);
+    width:900;
+    height:30;
+}
+
+.forsonik {
+    width: 900;
+    height: 40;
+    background-color: rgb(243, 178, 255);
+}
+
+a.sonik {
+    color: rgb(0, 0, 0);
+    
+}
+
+.textinblock {
+    color: black;
+    font-family: Segoe UI;
+}
+
+.ticket {
+    color: black;
+    font-family:Cambria ;
+}
+
+.blockfor {
+    width: 900;
+    height:40 ;
+    background-color: rgb(144, 209, 209);
+}
+
+.trailer {
+    width:900 ;
+    height:40 ;
+    background-color: rgb(181, 219, 177);
+}
+
+.footer {
+    width: 300;
+    height:100 ;
+    background-color: beige;
+    font-family: fantasy;
+}
